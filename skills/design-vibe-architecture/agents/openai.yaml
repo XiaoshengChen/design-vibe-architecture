@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Architecture Designer"
+  short_description: "Turn app ideas into buildable architecture plans"
+  default_prompt: "Use $design-vibe-architecture to turn my product idea into a buildable plan and Mermaid architecture diagrams."
